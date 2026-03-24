@@ -1,33 +1,33 @@
+<style type="text/css">
+  @media print {
+    * { font-family: sans-serif; font-size: smaller; }
+  }
+</style>
 
 # TOMKAT PEDALS CLOUDY USER MANUAL
 
 ### CONTENTS
-
-### [INTRODUCTION](#introduction)
-
-### LAYOUT
-- [GENERAL](#general-layout)
+- [INTRODUCTION](#introduction)
 - [POWER](#power)
-- [EXPRESSION JACK](#expression-jack)
-
-### MODES
-- [GRANULAR PROCESSOR](#mode-granular-processor)
-- [PITCH SHIFTER/TIME STRETCHER](#mode-pitch-shiftertime-stretcher)
-- [LOOPING DELAY](#mode-looping-delay)
-- [SPECTRAL MADNESS](#mode-spectral-madness)
-- [EMMIVERB](#mode-emmiverb)
-- [RESONESTOR](#mode-resonestor)
-
-[PRESETS](#presets)
-- [SAVING](#save-a-preset)
-- [LOADING](#load-a-preset)
-- [LOADING SHORTCUT VIA FOOTSWITCHES](#load-a-preset-via-footswitches)
-
-[CHEAT SHEETS](#cheat-sheets)
-- [EFFECT MODE SELECTOR](#effect-mode-selector-cheat-sheet)
-- [AUDIO QUALITY SELECTOR](#audio-quality-selector-cheat-sheet)
-- [EMMIVERB](#emmiverb-cheat-sheet)
-- [RESONESTOR](#resonestor-cheat-sheet)
+- [LAYOUT](#general-layout)
+  - [GENERAL](#general-layout)
+  - [EXPRESSION JACK](#expression-jack)
+- [MODES](#modes)
+  - [GRANULAR PROCESSOR](#mode-granular-processor)
+  - [PITCH SHIFTER/TIME STRETCHER](#mode-pitch-shiftertime-stretcher)
+  - [LOOPING DELAY](#mode-looping-delay)
+  - [SPECTRAL MADNESS](#mode-spectral-madness)
+  - [EMMIVERB](#mode-emmiverb)
+  - [RESONESTOR](#mode-resonestor)
+- [PRESETS](#presets)
+  - [SAVING](#save-a-preset)
+  - [LOADING](#load-a-preset)
+  - [LOADING SHORTCUT VIA FOOTSWITCHES](#load-a-preset-via-footswitches)
+- [CHEAT SHEETS](#cheat-sheets)
+  - [EFFECT MODE SELECTOR](#effect-mode-selector-cheat-sheet)
+  - [AUDIO QUALITY SELECTOR](#audio-quality-selector-cheat-sheet)
+  - [EMMIVERB](#emmiverb-cheat-sheet)
+  - [RESONESTOR](#resonestor-cheat-sheet)
 
 <div style="page-break-after: always;"></div>
 
@@ -40,6 +40,10 @@ Cloudy is a guitar pedal adaptation of the Eurorack Module "Clouds" by Mutable I
 Brief description of the Granular mode from the Mutable Instruments Clouds page:
 
 "Clouds is focused on the realtime granularization of incoming audio signals, and their transformation into amorphous textures. Grains of adjustable size, pitch and envelope, are extracted at controllable time offsets from the input signal. Grains are seeded randomly, periodically, or whenever the module receives a trigger."
+
+### POWER
+
+Works off standard center negative 9V DC power supply and requires at least 200ma current. Works best with a dedicated channel from a pedal board power supply or it's own One Spot style supply. Please do not use with a daisy chained power supply (one power cord plugged into several pedals).
 
 <div style="page-break-after: always;"></div>
 
@@ -58,10 +62,6 @@ There are four LEDs in the cluster of knobs. They indicate which mode you have s
 There is an input and output attenuverter marked IN and OUT. This allows for about a unity volume when both are at 12 o'clock position. It also allows you to turn down the input volume of hot signals or boost weaker signals. You will see the fourth LED on the vu meter turn red when your input starts to clip.
 
 V2 hardware has left and right inputs and outputs.
-
-### POWER
-
-Works off standard center negative 9V DC power supply and requires at least 200ma current. Works best with a dedicated channel from a pedal board power supply or it's own One Spot style supply. Please do not use with a daisy chained power supply (one power cord plugged into several pedals).
 
 <div style="page-break-after: always;"></div>
 
@@ -338,7 +338,7 @@ You just loaded a preset using the foot switches.
 
 If you enter this mode accidentally you can cancel by pressing bypass (on button) once or wait and do nothing for 3 seconds.
 
-<div style="page-break-after: always;"></div>
+<div style="page-break-after: auto;"></div>
 
 ### CHEAT SHEETS
 
@@ -348,13 +348,19 @@ If you enter this mode accidentally you can cancel by pressing bypass (on button
 
 Reverse scroll by pressing **AUDIO QUALITY** button
 
+<div style="page-break-after: always;"></div>
+
 ### AUDIO QUALITY SELECTOR CHEAT SHEET
 
 ![quality selector cheat](https://cdn.shopify.com/s/files/1/0652/8579/files/03_QUALITY_SELECT_grande.jpg?v=1552325764)
 
+<div style="page-break-after: always;"></div>
+
 ### EMMIVERB CHEAT SHEET
 
 ![emmiverb cheat](https://cdn.shopify.com/s/files/1/0652/8579/files/EmmiSheet_grande.jpg?v=1552327338)
+
+<div style="page-break-after: always;"></div>
 
 ### RESONESTOR CHEAT SHEET
 
