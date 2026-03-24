@@ -1,9 +1,9 @@
+<!--
 <style type="text/css">
   @media print {
     * { font-family: sans-serif; font-size: smaller; }
   }
-</style>
-
+</style> -->
 # TOMKAT PEDALS CLOUDY USER MANUAL
 
 ### CONTENTS
