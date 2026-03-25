@@ -69,7 +69,7 @@ V2 hardware has left and right inputs and outputs.
 
 You can use a normal style (like Moog) expression pedal on the left hand side jack near the freeze switch. Be sure to unplug power from Cloudy before plugging in an expression pedal.
 
-It can control any of the main 6 knobs.
+It can control any of the knobs.
 
 To control a knob with the expression pedal, enter expression assignment mode by pressing both **EFFECT MODE** and **AUDIO QUALITY** selector buttons at the same time.  The status LEDs will change to purple.  Rotate any knob to assign the pedal to control it.  The status LEDs closest to a knob indicate expression assignment.
 
