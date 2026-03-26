@@ -101,7 +101,7 @@ Cloudy is a granular audio processor. It creates textures and soundscapes by com
 
 **DENSITY**: This is the main control knob for the density of grains produced. At 12 o’clock it produces no grains, which means you won’t hear any effect. Turn clockwise and grains will be sown randomly, counter-clockwise and they will be played at a constant rate. The further you turn, the higher the overlap between grains.
 
-**SIZE**: Controls the size of the grains produced. Clockwise the grains are larger and and counter clockwise the get very tiny.
+**SIZE**: Controls the size of the grains produced. Clockwise the grains are larger, and counter clockwise they get very tiny.
 
 **POSITION**: Selects from which part of the recording buffer the audio grains are played. Acts like a delay time control.
 
